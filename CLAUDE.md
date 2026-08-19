@@ -38,8 +38,8 @@
 - 文件位置：项目对应文件夹下
 - 命名规范：YYYY.MM-标题.md
 
-## 常用操作
+## Skills
 
-- /proofreading → 三遍审校
-- /research → 结构化调研
-- /topic-gen → 选题生成
+- `proofreading`：三遍审校
+- `research`：结构化调研（planned）
+- `topic-gen`：选题生成（planned）

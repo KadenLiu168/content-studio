@@ -3,7 +3,6 @@ name: proofreading
 description: |
   三遍审校流程，降低AI检测率到30%以下。
   自动触发：用户说「审校」「降AI味」「太AI了」「改一改」
-  手动触发：/proofreading
 ---
 
 # 三遍审校
