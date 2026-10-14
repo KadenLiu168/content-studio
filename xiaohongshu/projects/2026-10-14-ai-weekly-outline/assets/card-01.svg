@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440" role="img" aria-label="让 AI 写周报
+先看提纲">
+<rect width="1080" height="1440" fill="#f6f1e7"/>
+<rect x="64" y="64" width="12" height="56" rx="6" fill="#ad4527"/>
+<text x="88" y="104" font-family="PingFang SC, sans-serif" font-size="30" font-weight="500" fill="#5c6f6b">01 / 06 · 提问方式</text>
+<text x="88" y="198" font-family="PingFang SC, sans-serif" font-size="66" font-weight="600" fill="#163d3b">让 AI 写周报</text>
+<text x="88" y="284" font-family="PingFang SC, sans-serif" font-size="66" font-weight="600" fill="#163d3b">先看提纲</text>
+<text x="88" y="406" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">先交材料，再讨论结构</text>
+<text x="88" y="464" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">给谁看？做了什么？</text>
+<text x="88" y="529" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">有哪些问题？下周做什么？</text>
+<text x="88" y="634" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">这组六张卡片提供</text>
+<text x="88" y="692" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">材料 → 两个提纲 → 反馈 → 核查</text>
+<text x="88" y="797" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">使用边界</text>
+<text x="88" y="855" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">适合先整理结构的汇报</text>
+<text x="88" y="920" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">已有固定模板，也可按模板处理</text>
+<path d="M88 1300 H992" stroke="#c5cdc5" stroke-width="2"/>
+<text x="88" y="1348" font-family="PingFang SC, sans-serif" font-size="28" font-weight="400" fill="#5c6f6b">进击的小皆 · AI 入门</text>
+</svg>

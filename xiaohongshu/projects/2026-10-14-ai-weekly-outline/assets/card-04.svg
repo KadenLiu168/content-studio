@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440" role="img" aria-label="反馈要说清
+保留什么、改什么">
+<rect width="1080" height="1440" fill="#f6f1e7"/>
+<rect x="64" y="64" width="12" height="56" rx="6" fill="#ad4527"/>
+<text x="88" y="104" font-family="PingFang SC, sans-serif" font-size="30" font-weight="500" fill="#5c6f6b">04 / 06 · 反馈示范</text>
+<text x="88" y="198" font-family="PingFang SC, sans-serif" font-size="66" font-weight="600" fill="#163d3b">反馈要说清</text>
+<text x="88" y="284" font-family="PingFang SC, sans-serif" font-size="66" font-weight="600" fill="#163d3b">保留什么、改什么</text>
+<text x="88" y="406" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">假设选择了第二个提纲</text>
+<text x="88" y="464" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">保留第二个提纲</text>
+<text x="88" y="529" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">把未确定的流程问题放到第一部分</text>
+<text x="88" y="594" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">已完成事项只保留有依据的内容</text>
+<text x="88" y="659" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">先改提纲，确认后再写正文</text>
+<text x="88" y="764" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">注意</text>
+<text x="88" y="822" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">反馈要指向一处具体改动</text>
+<text x="88" y="887" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">保留有用内容，再继续调整</text>
+<path d="M88 1300 H992" stroke="#c5cdc5" stroke-width="2"/>
+<text x="88" y="1348" font-family="PingFang SC, sans-serif" font-size="28" font-weight="400" fill="#5c6f6b">进击的小皆 · AI 入门</text>
+</svg>

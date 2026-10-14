@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440" role="img" aria-label="换成你的材料
+再试一次">
+<rect width="1080" height="1440" fill="#f6f1e7"/>
+<rect x="64" y="64" width="12" height="56" rx="6" fill="#ad4527"/>
+<text x="88" y="104" font-family="PingFang SC, sans-serif" font-size="30" font-weight="500" fill="#5c6f6b">06 / 06 · 使用顺序</text>
+<text x="88" y="198" font-family="PingFang SC, sans-serif" font-size="66" font-weight="600" fill="#163d3b">换成你的材料</text>
+<text x="88" y="284" font-family="PingFang SC, sans-serif" font-size="66" font-weight="600" fill="#163d3b">再试一次</text>
+<text x="88" y="406" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">操作顺序</text>
+<text x="88" y="464" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">挑可用于该工具的真实记录</text>
+<text x="88" y="529" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">说明对象、用途和不能补写的事</text>
+<text x="88" y="594" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">比较提纲，选择后具体反馈</text>
+<text x="88" y="659" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">确认结构，再扩展与核对正文</text>
+<text x="88" y="764" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">回到材料核对</text>
+<text x="88" y="822" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">检查每个要点的材料依据</text>
+<text x="88" y="887" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">找出遗漏、缺失和未确定的事</text>
+<text x="88" y="952" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">再决定是否扩展成正文</text>
+<path d="M88 1300 H992" stroke="#c5cdc5" stroke-width="2"/>
+<text x="88" y="1348" font-family="PingFang SC, sans-serif" font-size="28" font-weight="400" fill="#5c6f6b">进击的小皆 · AI 入门</text>
+</svg>

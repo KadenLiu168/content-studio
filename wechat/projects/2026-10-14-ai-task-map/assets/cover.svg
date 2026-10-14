@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-label="AI 除了聊天，还能帮你做什么？">
+<rect width="1200" height="510" fill="#f6f1e7"/>
+<rect x="64" y="64" width="12" height="56" rx="6" fill="#ad4527"/>
+<text x="88" y="104" font-family="PingFang SC, sans-serif" font-size="30" font-weight="500" fill="#5c6f6b">AI 入门 · 任务地图</text>
+<text x="88" y="198" font-family="PingFang SC, sans-serif" font-size="56" font-weight="600" fill="#163d3b">AI 除了聊天，还能帮你做什么？</text>
+<path d="M88 370 H1112" stroke="#c5cdc5" stroke-width="2"/>
+<text x="88" y="418" font-family="PingFang SC, sans-serif" font-size="28" font-weight="400" fill="#5c6f6b">进击的小皆 · AI 入门</text>
+</svg>

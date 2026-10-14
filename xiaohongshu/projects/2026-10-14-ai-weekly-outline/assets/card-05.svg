@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440" role="img" aria-label="写完，还要
+回到记录核对">
+<rect width="1080" height="1440" fill="#f6f1e7"/>
+<rect x="64" y="64" width="12" height="56" rx="6" fill="#ad4527"/>
+<text x="88" y="104" font-family="PingFang SC, sans-serif" font-size="30" font-weight="500" fill="#5c6f6b">05 / 06 · 核对清单</text>
+<text x="88" y="198" font-family="PingFang SC, sans-serif" font-size="66" font-weight="600" fill="#163d3b">写完，还要</text>
+<text x="88" y="284" font-family="PingFang SC, sans-serif" font-size="66" font-weight="600" fill="#163d3b">回到记录核对</text>
+<text x="88" y="406" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">逐项检查</text>
+<text x="88" y="464" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">未完成，是否被写成已完成？</text>
+<text x="88" y="529" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">没有的数据，是否补成了数字？</text>
+<text x="88" y="594" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">提纲里的事，是否都有材料？</text>
+<text x="88" y="659" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">要协调什么，是否说清楚了？</text>
+<text x="88" y="764" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">处理缺失</text>
+<text x="88" y="822" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">缺信息就补问或说明缺失</text>
+<text x="88" y="887" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">不要把空白当作零</text>
+<path d="M88 1300 H992" stroke="#c5cdc5" stroke-width="2"/>
+<text x="88" y="1348" font-family="PingFang SC, sans-serif" font-size="28" font-weight="400" fill="#5c6f6b">进击的小皆 · AI 入门</text>
+</svg>

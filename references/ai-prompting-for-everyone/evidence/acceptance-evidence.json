@@ -1,0 +1,595 @@
+{
+  "captured_at": "2026-10-14T14:25:59+08:00",
+  "scope": "local-v2-candidate-package-repair; actual platform preview remains a blocking release gate",
+  "review_mode": "single main Agent; synthetic/manual verdicts distinguished from real readback",
+  "material_hashes": {
+    "ap4e-m1.pdf": "502cf751501efa7cce4ebf3c016b42de656ee48d068c3fd2abf4e29e844f9c19",
+    "ap4e-m2.pdf": "f761e0cca3a5223cc9c6dfc0c5b4c5247548407d509bb0f39f201703e3d5235f",
+    "ap4e-m3.pdf": "e3d9da8b3188b29ed2708c32dff72aaf7a43c8b51cc482fd5e389db0a2938786"
+  },
+  "asset_layout": [
+    {
+      "asset": "wechat/projects/2026-10-14-ai-task-map/assets/cover.svg",
+      "png": "wechat/projects/2026-10-14-ai-task-map/assets/cover.png",
+      "width": 1200,
+      "height": 510,
+      "text_count": 3,
+      "text_bounds_ok": true
+    },
+    {
+      "asset": "wechat/projects/2026-10-14-ai-task-map/assets/task-map.svg",
+      "png": "wechat/projects/2026-10-14-ai-task-map/assets/task-map.png",
+      "width": 1080,
+      "height": 1100,
+      "text_count": 10,
+      "text_bounds_ok": true
+    },
+    {
+      "asset": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-01.svg",
+      "png": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-01.png",
+      "width": 1080,
+      "height": 1440,
+      "text_count": 12,
+      "text_bounds_ok": true
+    },
+    {
+      "asset": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-02.svg",
+      "png": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-02.png",
+      "width": 1080,
+      "height": 1440,
+      "text_count": 13,
+      "text_bounds_ok": true
+    },
+    {
+      "asset": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-03.svg",
+      "png": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-03.png",
+      "width": 1080,
+      "height": 1440,
+      "text_count": 13,
+      "text_bounds_ok": true
+    },
+    {
+      "asset": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-04.svg",
+      "png": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-04.png",
+      "width": 1080,
+      "height": 1440,
+      "text_count": 12,
+      "text_bounds_ok": true
+    },
+    {
+      "asset": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-05.svg",
+      "png": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-05.png",
+      "width": 1080,
+      "height": 1440,
+      "text_count": 12,
+      "text_bounds_ok": true
+    },
+    {
+      "asset": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-06.svg",
+      "png": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/assets/card-06.png",
+      "width": 1080,
+      "height": 1440,
+      "text_count": 13,
+      "text_bounds_ok": true
+    }
+  ],
+  "mobile_layout": [
+    {
+      "project": "wechat/projects/2026-10-14-ai-task-map",
+      "viewport": 320,
+      "width": 320,
+      "height": 6503,
+      "scrollWidth": 320,
+      "images": [
+        {
+          "src": "assets/cover.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/task-map.png",
+          "loaded": true
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "project": "wechat/projects/2026-10-14-ai-task-map",
+      "viewport": 390,
+      "width": 390,
+      "height": 5616,
+      "scrollWidth": 390,
+      "images": [
+        {
+          "src": "assets/cover.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/task-map.png",
+          "loaded": true
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "project": "wechat/projects/2026-10-14-ai-task-map",
+      "viewport": 430,
+      "width": 430,
+      "height": 5317,
+      "scrollWidth": 430,
+      "images": [
+        {
+          "src": "assets/cover.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/task-map.png",
+          "loaded": true
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "project": "xiaohongshu/projects/2026-10-14-ai-weekly-outline",
+      "viewport": 320,
+      "width": 320,
+      "height": 3957,
+      "scrollWidth": 320,
+      "images": [
+        {
+          "src": "assets/card-01.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-02.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-03.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-04.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-05.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-06.png",
+          "loaded": true
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "project": "xiaohongshu/projects/2026-10-14-ai-weekly-outline",
+      "viewport": 390,
+      "width": 390,
+      "height": 4322,
+      "scrollWidth": 390,
+      "images": [
+        {
+          "src": "assets/card-01.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-02.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-03.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-04.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-05.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-06.png",
+          "loaded": true
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "project": "xiaohongshu/projects/2026-10-14-ai-weekly-outline",
+      "viewport": 430,
+      "width": 430,
+      "height": 4609,
+      "scrollWidth": 430,
+      "images": [
+        {
+          "src": "assets/card-01.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-02.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-03.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-04.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-05.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/card-06.png",
+          "loaded": true
+        }
+      ],
+      "overflow": []
+    }
+  ],
+  "text_check": [
+    {
+      "project": "wechat/projects/2026-10-14-ai-task-map",
+      "canonical_text_matches_browser": true,
+      "canonical_text_matches_all_reader_html": true,
+      "reader_placeholder_scan": "pass",
+      "teaching_boundary_preserved": true
+    },
+    {
+      "project": "xiaohongshu/projects/2026-10-14-ai-weekly-outline",
+      "canonical_text_matches_browser": true,
+      "canonical_text_matches_all_reader_html": true,
+      "reader_placeholder_scan": "pass",
+      "teaching_boundary_preserved": true
+    }
+  ],
+  "packages": {
+    "wechat/projects/2026-10-14-ai-task-map": {
+      "label": "v2",
+      "files_sha256": {
+        "assets/article.html": "4992bf53dbcd1d05795c59cf397ec1bb19a85619d296e9d729a9cb4199d7e13f",
+        "assets/cover.png": "ab8de6ff3ac09bc8af6ce339ea514f4f3762a2aac8723d36353fab77712f56a6",
+        "assets/cover.svg": "c05d709b4dd0315a8ed1a6752713414bcb78e525d826ed692f761bee0f939167",
+        "assets/mobile-preview.png": "6fc80e6dd75b4099377d61707e227eb972528a5286e35dd29b1ff2ed440a7be8",
+        "assets/mobile-top.png": "eed3321462edc6cff57ba7191f3dc0615a26ceae3b4f2a10cfbb8b055291e5e4",
+        "assets/task-map.png": "62c22793cf719ea76cf89831ad46247717363b1f1bac7bdc03929521dd61ddda",
+        "assets/task-map.svg": "cc2c6bc2cdd5130e373f38d75214830e846cdc38ef815ee8acda77b6edbf6c3b",
+        "brief.md": "d9e9af1715b88de3efe4573a7d1acb14632a3caa9e781206f960dfeb332a97b8",
+        "draft.md": "0c4edee64ea7bb2969bb685e3b53cd014d519fdb84b35c1f09b182c84723a3ab",
+        "preview.html": "cab249a91d3c954ac760b5f07476b878815b58be5034f3703e696d5923c946df",
+        "sources.md": "a8f3ac4a0dfe2b6802396ce20bd95f859a0ab65cd97e1408cd9024926ea8c5b9"
+      },
+      "package_sha256": "7468aa4a45c1ed5b18eb6bf1ae45dfcf7d98c9207a1b2a8392404a5b8d3dd57b",
+      "author_confirmation": null
+    },
+    "xiaohongshu/projects/2026-10-14-ai-weekly-outline": {
+      "label": "v2",
+      "files_sha256": {
+        "assets/card-01.png": "21af132fc29461393d9633219f4c7c8a9ee137d88f4656f3b84d8722a0880210",
+        "assets/card-01.svg": "9f656a3123823d9802899c08421d9e821c886795b16266b7296f3324b6db63a1",
+        "assets/card-02.png": "ea7e38545dd502fc91f4e2fe116c6be84a1d0ed336856bba99780cb2eb1332b8",
+        "assets/card-02.svg": "0426db3922821234263b02d287071c318bbb085fba672dfe545947c7202d5f63",
+        "assets/card-03.png": "fd297b04f630557bb7118e26fc3d05df6d64a2d3a262256ec24c9623e3b510b9",
+        "assets/card-03.svg": "ab6b0904ef8a2276d4234b68f71a1a4dc8e7b0253a7a3d426344876cc8ab937a",
+        "assets/card-04.png": "b4e30161598000003953f32d0bc92993ea86ba307d738dbc87edc3f473e225ee",
+        "assets/card-04.svg": "0534510da7b16f88d59766e514196b274b0dbd462a37ad25432a76b6d82fe283",
+        "assets/card-05.png": "eb61bf80f701b88dbec5f11551a1c4b33d6143f141821a458fbd9784fceec471",
+        "assets/card-05.svg": "48e8ef25e4731b21cd4573f622f3859dc945e400668968d72dfcd859f028205a",
+        "assets/card-06.png": "565b64d45e7b44edd0cc4c5167ae531ec91a9d50c9b117f98986f27bb6bd4885",
+        "assets/card-06.svg": "ce7dc5c777ea73cf48a6fa1caab70f8a6623327ec89a8d342be2fe410bf80a69",
+        "assets/mobile-preview.png": "57c43b53b89a61b85d01b814296bf298234728534fc9766e8a25b1dc321e8983",
+        "assets/mobile-top.png": "ba2d9c272ecee3cc631b9edcd3fa70dc30c2376dacaba488eda87c3ba2081ae2",
+        "brief.md": "b06d84dfa8e8d938fb3a6123ab40bd4c0cb4fc0fc3a1460d73fe17dbed7b998f",
+        "draft.md": "86fbd02d3dea8ef99c1f007e29d83c55d2d959b79bc3fe67ca861657962f779a",
+        "preview.html": "5f75d97dd11cbdd151a48a4ac0de723cc03f747b10043b87dcddc7fb37f0e5f9",
+        "sources.md": "5225b7daa6e15a90932ecc07faed5230025892ad264bc410677c07d2a30cc581"
+      },
+      "package_sha256": "2748ff7d1008098044e8ca735916b45343eb7ccda3e913fd0c33796e0fecd1aa",
+      "author_confirmation": null
+    }
+  },
+  "verification": {
+    "author_confirmation": "pending-v2-review",
+    "platform_preview": "unverified-blocking-release",
+    "commit_push_publication": "not-performed",
+    "local_markdown_links_checked": 58,
+    "broken_links": [],
+    "current_manifest_file_count": 29,
+    "two_v2_manifests_match": true,
+    "material_hashes_match_no_new_pdf_read_claim": true,
+    "platform_gate_consistent": true,
+    "local_mobile_layout_fresh_widths": [
+      320,
+      390,
+      430
+    ],
+    "png_preview_dimensions_match_actual_layout": true,
+    "git_diff_check": "pass",
+    "old_deletions_preserved": true,
+    "isolated_browser_processes_remaining": 0
+  },
+  "author_review_request": {
+    "pending": false,
+    "status": "old-v1-request-superseded-by-v2-repair; no confirmation received",
+    "platform_preview_required_before_ready_to_publish": true
+  },
+  "historical_fault_review": {
+    "scope": "temporary-copies-only; no production failure injection",
+    "reviewer": "single-main-agent; not independent review; not automatic semantic validator",
+    "fixtures_path": "/tmp/content-studio-e2e-faults",
+    "fixture_hashes": {
+      "confirmed-draft.md": "acc7180a66ef322c8431a8081854fc8c9db50c0af9392d4a244fe5dc56a193b1",
+      "editor-leak.md": "dfec2658163906f21f73ae366f99149f888b53e9b12e3d87c6d0b13fdd400c92",
+      "unsupported-source.md": "062a5e5dae7c1a8764db63aff7e325509c1565d1d1d808419aa9a865fcfe7d2d",
+      "missing-metrics.json": "801cf217bf75d0e70bd13d9461f913c5b0275ef9be8aee675afd405928efc39b",
+      "overclaim-cover.md": "686324f2a3f20a9813a3f1cd1188f98bad493ee18f305695379eb049fd3e4c73",
+      "failed-write.json": "b2632b2e81a839c6e8b2ecf8d20ff5702b12f8df386318981f04c12b0551148e",
+      "fake-experience.md": "9df7b7ac32ad20d5301364d878cea064d97df9c3a8fd3836691fb0bd308d8225",
+      "confirmation.json": "feae011b749577e1b7a0c2e13c3c3ed52f161010bf81a31b8ec698aa452e9f04"
+    },
+    "checks": [
+      {
+        "id": "F1",
+        "method": "main-agent-content-review",
+        "fixture": "unsupported-source.md",
+        "observed": "链接指向 M2 46–54 页，但页段没有周报节省 50% 的数字证据。",
+        "decision": "阻塞",
+        "coverage": "synthetic-manual-pass"
+      },
+      {
+        "id": "F2",
+        "method": "main-agent-content-review",
+        "fixture": "fake-experience.md",
+        "observed": "末尾「我已经亲测，上周…真实工作周报」与虚构教学输入相矛盾，无实测记录。",
+        "decision": "阻塞",
+        "coverage": "synthetic-manual-pass"
+      },
+      {
+        "id": "F3",
+        "method": "main-agent-title-cover-review",
+        "fixture": "overclaim-cover.md",
+        "observed": "「效率提升 10 倍」超出来源和示例证据。",
+        "decision": "阻塞",
+        "coverage": "synthetic-manual-pass"
+      },
+      {
+        "id": "F4",
+        "method": "main-agent-detail-review",
+        "fixture": "editor-leak.md",
+        "observed": "发现 HTML 编辑备注和 TODO 占位符；即使评论不显示，也不能进入发布源。",
+        "decision": "阻塞",
+        "coverage": "synthetic-manual-pass"
+      },
+      {
+        "id": "F5",
+        "method": "synthetic-confirmation-hash-comparison",
+        "fixture": "confirmed-draft.md",
+        "observed": {
+          "confirmed_sha256": "c41a19b35e74ee57ddc5482018a21579b9f5b68cc4a41f26e34ddd6809693143",
+          "changed_sha256": "acc7180a66ef322c8431a8081854fc8c9db50c0af9392d4a244fe5dc56a193b1"
+        },
+        "decision": "重新确认受影响版本；模拟旧确认失效",
+        "coverage": "synthetic-pass"
+      },
+      {
+        "id": "F6",
+        "method": "local-process-failure-envelope-and-checksums",
+        "fixture": "failed-write.json",
+        "observed": {
+          "exit_code": 1,
+          "ok": false,
+          "all_local_package_hashes_unchanged": true,
+          "report": "模拟目标两条试点记录的路径等字段未同步；不得报告写入成功，先读回消歧，禁止创建重试"
+        },
+        "decision": "报告未同步并保留本地产物",
+        "coverage": "synthetic-pass; real-remote-failure-recovery-not-covered"
+      },
+      {
+        "id": "F8",
+        "method": "main-agent-missing-metric-review",
+        "fixture": "missing-metrics.json",
+        "observed": {
+          "views": "UNKNOWN",
+          "clicks": "UNKNOWN",
+          "followers_net": "UNKNOWN",
+          "ratio": "UNKNOWN"
+        },
+        "decision": "保留未知，不填零，不算比率，不归因单篇转化",
+        "coverage": "synthetic-manual-pass"
+      },
+      {
+        "id": "F7",
+        "method": "actual-remote-noop-repeat-readback",
+        "observed": [
+          {
+            "attempt": 1,
+            "write_requests": 1,
+            "record_count": 4,
+            "readback": "pass-after-asynchronous-settle",
+            "initial_readback": "stale; did not repeat write"
+          },
+          {
+            "attempt": 2,
+            "write_requests": 0,
+            "record_count": 4,
+            "readback": "pass"
+          }
+        ],
+        "decision": "第二次无需写入，不创建记录，仍四行；两条非目标行与所有未指定字段不变",
+        "coverage": "real-pass"
+      }
+    ]
+  },
+  "historical_remote_check": {
+    "scope": "real-user-identity-remote-read-write-readback",
+    "record_count_before": 4,
+    "record_count_after": 4,
+    "changed_record_ids": [
+      "reczz28MRFzyG7Y6",
+      "reczz28MRFzyGxpW"
+    ],
+    "target_deltas": {
+      "reczz28MRFzyG7Y6": {
+        "本地稿件路径": "wechat/projects/2026-10-14-ai-task-map/draft.md",
+        "共享研究路径": "references/ai-prompting-for-everyone/",
+        "优先级": [
+          "优先"
+        ],
+        "下一步": "本轮试点优先：审阅新本地发布包，确认标题、方法表达和教学示例；实际平台预览留待办。"
+      },
+      "reczz28MRFzyGxpW": {
+        "本地稿件路径": "xiaohongshu/projects/2026-10-14-ai-weekly-outline/draft.md",
+        "共享研究路径": "references/ai-prompting-for-everyone/",
+        "优先级": [
+          "优先"
+        ],
+        "下一步": "本轮试点优先：审阅新本地发布包，确认标题、方法表达和教学示例；实际平台预览留待办。"
+      }
+    },
+    "non_target_records_exactly_equal": true,
+    "all_unpatched_fields_exactly_equal": true,
+    "before_digest": "18b90b0ea3b5f48dc17ce2b0376054c89adf2a809c267bb025d38bd6f87729cf",
+    "after_digest": "1f749a0bf45d0eaf02c963b5d9d2cfb4f13916e20a9c76c7618fdf6429d3c50d",
+    "attempts": [
+      {
+        "attempt": 1,
+        "write_requests": 1,
+        "record_count": 4,
+        "readback": "pass-after-asynchronous-settle",
+        "initial_readback": "stale; did not repeat write"
+      },
+      {
+        "attempt": 2,
+        "write_requests": 0,
+        "record_count": 4,
+        "readback": "pass"
+      }
+    ],
+    "real_remote_failure_recovery": "not-covered"
+  },
+  "historical_work_session": {
+    "start": "2026-10-14T11:03:27+08:00",
+    "checkpoint": "2026-10-14T11:16:24+08:00",
+    "basis": "goal-created timestamp to observed UTC clock, includes tool and reasoning time; not author labor",
+    "author_time": "UNKNOWN",
+    "production_rework": [
+      "Chrome CLI viewport minimum was 500px; switched to actual device metrics on a page target",
+      "Local file navigation aborted on initial target; used isolated loopback preview server and correct page target",
+      "Accent contrast and full-width mobile cards corrected",
+      "Feishu asynchronous readback was stale; waited and read again without rewriting"
+    ],
+    "local_acceptance_finished": "2026-10-14T12:14:41+08:00"
+  },
+  "historical_evidence_note": "Historical v1 failure exercises and first pilot sync were not rerun in this repair. They do not prove v2 semantic correctness or current remote state.",
+  "remote_check": {
+    "identity": "user",
+    "readback": "pass",
+    "all_records_complete": true,
+    "record_count": 4,
+    "rev": 8,
+    "writes": 1,
+    "read_attempts": 2,
+    "target_delta": {
+      "reczz28MRFzyG45F": {
+        "状态": [
+          "候选"
+        ],
+        "优先级": [
+          "暂缓"
+        ],
+        "本地稿件路径": null,
+        "下一步": "原稿已删除，选题保留并暂缓；重新立项时再建稿，不恢复旧稿。"
+      },
+      "reczz28MRFzyGWpJ": {
+        "状态": [
+          "候选"
+        ],
+        "优先级": [
+          "暂缓"
+        ],
+        "本地稿件路径": null,
+        "下一步": "原稿已删除，选题保留并暂缓；重新立项时再建稿，不恢复旧稿。"
+      }
+    },
+    "new_pilot_records_exactly_unchanged": true,
+    "all_unpatched_fields_unchanged": true,
+    "no_dangling_review_paths": true,
+    "before_digest": "1f749a0bf45d0eaf02c963b5d9d2cfb4f13916e20a9c76c7618fdf6429d3c50d",
+    "after_digest": "e799465704563555b227f412a432e31dd2b89aa54158022e6c76405a38aa7d29"
+  },
+  "previous_package_versions": {
+    "wechat/projects/2026-10-14-ai-task-map": {
+      "label": "v1",
+      "package_sha256": "2bbea9108ea33d72b951dcd019b77c57f700ff2b2243bf05e6952d7bb2d975b8",
+      "files_sha256": {
+        "assets/article.html": "f1fbfdda22497448e9186a8d5a1073c9548bc447f380d1af3f13f0566d294458",
+        "assets/cover.png": "ab8de6ff3ac09bc8af6ce339ea514f4f3762a2aac8723d36353fab77712f56a6",
+        "assets/cover.svg": "c05d709b4dd0315a8ed1a6752713414bcb78e525d826ed692f761bee0f939167",
+        "assets/mobile-preview.png": "11a642d35cb16861a8505fbdf7fba100b53d8ce7740010a28eafed6401abcf0b",
+        "assets/mobile-top.png": "0a443fb09ef42d35de6358e43b720f5e8ad23eedca6be7986f6ad1d4ce95279d",
+        "assets/task-map.png": "62c22793cf719ea76cf89831ad46247717363b1f1bac7bdc03929521dd61ddda",
+        "assets/task-map.svg": "cc2c6bc2cdd5130e373f38d75214830e846cdc38ef815ee8acda77b6edbf6c3b",
+        "brief.md": "4c72ff0c444c316afe7ebb58a53f3764d7f64bb9dfec02b95aff57e7c8fcb4c5",
+        "draft.md": "4735680bed3cecb13c506cc5206e2aad100cf6ae76d30fe623550e684840a7a3",
+        "preview.html": "5337394b4e50346ba66090db4cef4ef2d2cc84896d802ddd2bfc1ada3b386c70",
+        "sources.md": "4a082e35b866aaa976c097ec5a5c1e01ddf56eea31be1d9ee7ad5b8ab0d08877"
+      },
+      "status": "superseded; not current author-confirmed artifacts"
+    },
+    "xiaohongshu/projects/2026-10-14-ai-weekly-outline": {
+      "label": "v1",
+      "package_sha256": "fb7d750edb71d40947a98f04e8fc2ff35fa0abd3c68b3f43e0da731966d8f886",
+      "files_sha256": {
+        "assets/card-01.png": "8fcc1d3a3fbcc2e29b59d83829b86bc4df93d918e055072fb9a03d47f366f6f7",
+        "assets/card-01.svg": "2d39fb5c3f7e2ea6bc5fd737f988c1151de18c85289863ec909a7f9d0e3de4ac",
+        "assets/card-02.png": "25e1e2c5602c318286d6218bc737576ef514fa5dbd140f2ebf21f8b386faff7c",
+        "assets/card-02.svg": "47449a0e9a3ac262097581068d58ec6fbffd07c1de754c34355c881925f0963e",
+        "assets/card-03.png": "fd297b04f630557bb7118e26fc3d05df6d64a2d3a262256ec24c9623e3b510b9",
+        "assets/card-03.svg": "ab6b0904ef8a2276d4234b68f71a1a4dc8e7b0253a7a3d426344876cc8ab937a",
+        "assets/card-04.png": "33baa352f6da5073e33dd324a5180064897d8e5b1efcdf569ad554ef72d72714",
+        "assets/card-04.svg": "253acc0c02846baeaeb4697c04d26fc58492ca21fd6be5c7f08a3ee0ce2faf94",
+        "assets/card-05.png": "eb61bf80f701b88dbec5f11551a1c4b33d6143f141821a458fbd9784fceec471",
+        "assets/card-05.svg": "48e8ef25e4731b21cd4573f622f3859dc945e400668968d72dfcd859f028205a",
+        "assets/card-06.png": "bcfbcf4868d1b1a14f413437bfeebbf1ca7bb7657b294c52447188ad018ba558",
+        "assets/card-06.svg": "e58be89a5548618ed7b40e244f889e82808766d70216c9634994c966c9e197e4",
+        "assets/mobile-preview.png": "acdfe516dccde759a1812c117387af851c84562a3350850a1d539e812cb07eb6",
+        "assets/mobile-top.png": "1a21be86b0509dde77bea910d29124f1c82cb83895e3fbf6bbf0ec3669411c96",
+        "brief.md": "21571d5314b06a703966f0061018ed7c99dd46a1b6cdb2a9e6303591c49ab0e0",
+        "draft.md": "c41a19b35e74ee57ddc5482018a21579b9f5b68cc4a41f26e34ddd6809693143",
+        "preview.html": "01b7d9cf052d805dd173d6ed688a4bce90d547eebe80674232e9845cf47734df",
+        "sources.md": "4942168ee308f2506b548f6b06749bef1d8e110f9e5abad9f93657140d6debe6"
+      },
+      "status": "superseded; not current author-confirmed artifacts"
+    }
+  },
+  "release_gate_review": {
+    "method": "single-main-agent-rule-scenario-review; not an automatic gate",
+    "scenario": {
+      "author_confirmed": true,
+      "other_content_gates_pass": true,
+      "actual_platform_preview": "unverified/deferred"
+    },
+    "expected_and_observed_decision": {
+      "confirmed_final_allowed": true,
+      "ready_to_publish_allowed": false,
+      "feishu_state": "待审"
+    },
+    "basis": [
+      "AGENTS.md 发布条件",
+      "workflow.md 发布阶段与停止条件",
+      "pipeline.md 定点写入契约",
+      "both publish.md 实际平台预览 gate"
+    ],
+    "result": "manual-synthetic-pass; no remote state transition attempted"
+  },
+  "repair_items": {
+    "P1-1": "Local delivery scope does not waive actual platform preview. Unverified/deferred preview blocks ready-to-publish, even with author confirmation.",
+    "P1-2": "Keep two old topics, return to candidate, defer priority, clear deleted draft path; exact target readback, no new records, pilot rows unchanged.",
+    "P1-3": "Incremental confirmed positioning and scope; technical work history is not AI test results. Unknown priorities and time remain unknown.",
+    "P2": "Reader copy reduced to method, one explicit teaching boundary, attribution and usage limits. Internal version and rights checks retained in sources/publish. v2 SVG/PNG/HTML/screenshots/manifests synchronized."
+  }
+}

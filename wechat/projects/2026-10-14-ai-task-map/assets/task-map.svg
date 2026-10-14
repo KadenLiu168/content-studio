@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1100" viewBox="0 0 1080 1100" role="img" aria-label="从任务出发
+决定怎样提问">
+<rect width="1080" height="1100" fill="#f6f1e7"/>
+<rect x="64" y="64" width="12" height="56" rx="6" fill="#ad4527"/>
+<text x="88" y="104" font-family="PingFang SC, sans-serif" font-size="30" font-weight="500" fill="#5c6f6b">三类任务，三种检查</text>
+<text x="88" y="198" font-family="PingFang SC, sans-serif" font-size="66" font-weight="600" fill="#163d3b">从任务出发</text>
+<text x="88" y="284" font-family="PingFang SC, sans-serif" font-size="66" font-weight="600" fill="#163d3b">决定怎样提问</text>
+<text x="88" y="406" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">01  查信息</text>
+<text x="88" y="464" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">看原文、日期和适用范围</text>
+<text x="88" y="569" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">02  想清楚</text>
+<text x="88" y="627" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">看材料、提纲和取舍依据</text>
+<text x="88" y="732" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600" fill="#ad4527">03  做出东西</text>
+<text x="88" y="790" font-family="PingFang SC, sans-serif" font-size="42" font-weight="400" fill="#163d3b">看实际运行或阅读结果</text>
+<path d="M88 960 H992" stroke="#c5cdc5" stroke-width="2"/>
+<text x="88" y="1008" font-family="PingFang SC, sans-serif" font-size="28" font-weight="400" fill="#5c6f6b">进击的小皆 · AI 入门</text>
+</svg>
