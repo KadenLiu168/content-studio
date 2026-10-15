@@ -264,7 +264,15 @@
         "sources.md": "a8f3ac4a0dfe2b6802396ce20bd95f859a0ab65cd97e1408cd9024926ea8c5b9"
       },
       "package_sha256": "7468aa4a45c1ed5b18eb6bf1ae45dfcf7d98c9207a1b2a8392404a5b8d3dd57b",
-      "author_confirmation": null
+      "author_confirmation": {
+        "recorded_at": "2026-10-15T08:12:21+08:00",
+        "author_quote": "确认两篇当前 v2 正文与全部资产",
+        "context": "response to explicit review request covering titles, explanation, fictional teaching boundaries, full v2 text and all assets",
+        "candidate_package_sha256": "7468aa4a45c1ed5b18eb6bf1ae45dfcf7d98c9207a1b2a8392404a5b8d3dd57b",
+        "body_sha256": "0c4edee64ea7bb2969bb685e3b53cd014d519fdb84b35c1f09b182c84723a3ab",
+        "final_sha256": "0c4edee64ea7bb2969bb685e3b53cd014d519fdb84b35c1f09b182c84723a3ab",
+        "publication_authorized": false
+      }
     },
     "xiaohongshu/projects/2026-10-14-ai-weekly-outline": {
       "label": "v2",
@@ -289,7 +297,15 @@
         "sources.md": "5225b7daa6e15a90932ecc07faed5230025892ad264bc410677c07d2a30cc581"
       },
       "package_sha256": "2748ff7d1008098044e8ca735916b45343eb7ccda3e913fd0c33796e0fecd1aa",
-      "author_confirmation": null
+      "author_confirmation": {
+        "recorded_at": "2026-10-15T08:12:21+08:00",
+        "author_quote": "确认两篇当前 v2 正文与全部资产",
+        "context": "response to explicit review request covering titles, explanation, fictional teaching boundaries, full v2 text and all assets",
+        "candidate_package_sha256": "2748ff7d1008098044e8ca735916b45343eb7ccda3e913fd0c33796e0fecd1aa",
+        "body_sha256": "86fbd02d3dea8ef99c1f007e29d83c55d2d959b79bc3fe67ca861657962f779a",
+        "final_sha256": "86fbd02d3dea8ef99c1f007e29d83c55d2d959b79bc3fe67ca861657962f779a",
+        "publication_authorized": false
+      }
     }
   },
   "verification": {
@@ -591,5 +607,309 @@
     "P1-2": "Keep two old topics, return to candidate, defer priority, clear deleted draft path; exact target readback, no new records, pilot rows unchanged.",
     "P1-3": "Incremental confirmed positioning and scope; technical work history is not AI test results. Unknown priorities and time remain unknown.",
     "P2": "Reader copy reduced to method, one explicit teaching boundary, attribution and usage limits. Internal version and rights checks retained in sources/publish. v2 SVG/PNG/HTML/screenshots/manifests synchronized."
+  },
+  "continuation_verification": {
+    "captured_at": "2026-10-14T18:53:14+08:00",
+    "scope": "delivery-documentation-only; no reader copy or assets changed",
+    "packages": [
+      {
+        "project": "wechat/projects/2026-10-14-ai-task-map",
+        "package_sha256": "7468aa4a45c1ed5b18eb6bf1ae45dfcf7d98c9207a1b2a8392404a5b8d3dd57b",
+        "manifest_files": 11,
+        "files_and_package_match": true,
+        "png_dimensions": {
+          "assets/cover.png": [
+            1200,
+            510
+          ],
+          "assets/mobile-preview.png": [
+            390,
+            5616
+          ],
+          "assets/mobile-top.png": [
+            390,
+            844
+          ],
+          "assets/task-map.png": [
+            1080,
+            1100
+          ]
+        }
+      },
+      {
+        "project": "xiaohongshu/projects/2026-10-14-ai-weekly-outline",
+        "package_sha256": "2748ff7d1008098044e8ca735916b45343eb7ccda3e913fd0c33796e0fecd1aa",
+        "manifest_files": 18,
+        "files_and_package_match": true,
+        "png_dimensions": {
+          "assets/card-01.png": [
+            1080,
+            1440
+          ],
+          "assets/card-02.png": [
+            1080,
+            1440
+          ],
+          "assets/card-03.png": [
+            1080,
+            1440
+          ],
+          "assets/card-04.png": [
+            1080,
+            1440
+          ],
+          "assets/card-05.png": [
+            1080,
+            1440
+          ],
+          "assets/card-06.png": [
+            1080,
+            1440
+          ],
+          "assets/mobile-preview.png": [
+            390,
+            4322
+          ],
+          "assets/mobile-top.png": [
+            390,
+            844
+          ]
+        }
+      }
+    ],
+    "remote_read": {
+      "identity": "user",
+      "entry_resolved_live": true,
+      "table_discovered_live": true,
+      "schema_field_count": 10,
+      "status_options": [
+        "候选",
+        "写作中",
+        "待审",
+        "待发布",
+        "已发布"
+      ],
+      "revision": 8,
+      "records_count": 4,
+      "has_more": false,
+      "pilot_paths_valid": true,
+      "pilot_states": [
+        "待审",
+        "待审"
+      ],
+      "writes": 0,
+      "read_fields": [
+        "选题",
+        "平台",
+        "状态",
+        "本地稿件路径",
+        "下一步",
+        "共享研究路径",
+        "优先级"
+      ],
+      "not_checked": [
+        "读者问题",
+        "计划发布日期",
+        "发布链接"
+      ],
+      "note": "Read-only observation, not new write/readback validation; no live operations ledger stored locally."
+    },
+    "not_rerun": [
+      "PDF page reading",
+      "browser layout and screenshot capture",
+      "three-pass reader copy review",
+      "historical failure exercises"
+    ],
+    "still_unverified": [
+      "author confirmation of v2",
+      "actual platform preview",
+      "actual remote fault recovery",
+      "publication"
+    ],
+    "final_created": false,
+    "local_markdown_links": {
+      "checked": 75,
+      "broken": []
+    },
+    "git_diff_check": "pass"
+  },
+  "platform_access_attempt": {
+    "recorded_at": "2026-10-14T19:07:26+08:00",
+    "authorization_quote": "授权两平台的后台草稿编辑、图片上传与真实预览",
+    "authorized_scope": [
+      "wechat draft editing and upload and preview",
+      "xiaohongshu draft editing and upload and preview"
+    ],
+    "bound_packages": {
+      "wechat/projects/2026-10-14-ai-task-map": "7468aa4a45c1ed5b18eb6bf1ae45dfcf7d98c9207a1b2a8392404a5b8d3dd57b",
+      "xiaohongshu/projects/2026-10-14-ai-weekly-outline": "2748ff7d1008098044e8ca735916b45343eb7ccda3e913fd0c33796e0fecd1aa"
+    },
+    "author_version_confirmation": false,
+    "publication_authorized": false,
+    "huashu_result": "NO_EXTENSION",
+    "computer_use_result": "session stopped: Computer Use is not allowed on the current browser URL",
+    "wechat": "navigation attempted; no verified login, draft list, save, upload or preview",
+    "xiaohongshu": "not reached; no platform access verdict",
+    "dedicated_connectors_available": false,
+    "platform_writes_verified": 0,
+    "real_preview": "unverified-blocking-release",
+    "restriction_bypass_attempted": false,
+    "remote_state_updated": false
+  },
+  "xiaohongshu_platform_preview": {
+    "captured_at": "2026-10-14T19:20:09+08:00",
+    "tool": "huashu-chrome",
+    "tab_id": 1116458880,
+    "account": "进击的小皆",
+    "candidate_package_sha256": "2748ff7d1008098044e8ca735916b45343eb7ccda3e913fd0c33796e0fecd1aa",
+    "draft_count_before": 0,
+    "draft_count_after": 1,
+    "save_result": "保存成功",
+    "reopened_existing_draft": true,
+    "draft_storage": "browser-local; platform explicitly warns clearing browser data deletes drafts; cloud sync not verified",
+    "title_matches": true,
+    "body_matches_ignoring_whitespace": true,
+    "image_count": 6,
+    "image_size": [
+      1080,
+      1440
+    ],
+    "upload_blob_sha256_in_order": [
+      "21af132fc29461393d9633219f4c7c8a9ee137d88f4656f3b84d8722a0880210",
+      "ea7e38545dd502fc91f4e2fe116c6be84a1d0ed336856bba99780cb2eb1332b8",
+      "fd297b04f630557bb7118e26fc3d05df6d64a2d3a262256ec24c9623e3b510b9",
+      "b4e30161598000003953f32d0bc92993ea86ba307d738dbc87edc3f473e225ee",
+      "eb61bf80f701b88dbec5f11551a1c4b33d6143f141821a458fbd9784fceec471",
+      "565b64d45e7b44edd0cc4c5167ae531ec91a9d50c9b117f98986f27bb6bd4885"
+    ],
+    "upload_blob_hashes_match_local_before_save": true,
+    "reopened_images_count_and_dimensions_match": true,
+    "preview": "actual creator-platform built-in web note preview and cover preview visually checked; not local HTML",
+    "six_card_previews_checked": true,
+    "screenshots_and_readback_sha256": {
+      "xiaohongshu-v2-platform/card-01-editor.png": "4832ac65293545acc86063ac14afca78a53a9e63c971677f98ded61f99a17cb3",
+      "xiaohongshu-v2-platform/card-02-editor.png": "417dde1d6257c6120711a7b63d7c35b0f7e719c6a13c5d193e73505fdb33c5cc",
+      "xiaohongshu-v2-platform/card-03-editor.png": "3bec8aeff5bc32c0b26131441e031449d74d0510c67ec21f84f7c94bff473cdb",
+      "xiaohongshu-v2-platform/card-04-editor.png": "34d89f56f2658685eec130a867005a758c18e60c5c291b5c9dd2e061cb7511d8",
+      "xiaohongshu-v2-platform/card-05-editor.png": "78763ad60091e0af04298372d4743b107f0d96324ec9aee99d36d70a67b09685",
+      "xiaohongshu-v2-platform/card-06-editor.png": "afa63dfee2f24ba4e3463b0907263ff9315a10edf1369ed83b3801c8e614befc",
+      "xiaohongshu-v2-platform/draft-box.png": "a95bac9d6cb1dc45ad33bdecd66858a9e782fc047c98a9c285e0cbfc76add9d7",
+      "xiaohongshu-v2-platform/reopened-body.png": "72f3e164e79576c250944b123d3a805d8ed5a5167366f71a2a03e069f391280f",
+      "xiaohongshu-v2-platform/reopened-cover.png": "889c507098549278213cf1679997308fe84b3d78e2b9269c2c1f42f645d3265e",
+      "xiaohongshu-v2-platform/reopened-note.png": "68c3821fdc4e78e15cd31e98f9af122673329aa14a123b73ed636671a4b94fa0",
+      "xiaohongshu-v2-platform/reopened-readback.json": "cfe831a1dc7305b34d3bca516cd671ff646732ed8945ba3e0a2ce327e1bc5bb1"
+    },
+    "hashtags": "original plain text preserved; zero linked topic entities, not claimed as converted platform topics",
+    "not_covered": [
+      "phone App preview",
+      "published asset compression",
+      "cloud draft synchronization",
+      "author version confirmation"
+    ],
+    "publication_performed": false,
+    "feishu_write_performed": false
+  },
+  "author_confirmation_continuation": {
+    "recorded_at": "2026-10-15T08:12:21+08:00",
+    "author_quote": "确认两篇当前 v2 正文与全部资产",
+    "finals_match_drafts": true,
+    "candidate_manifest_files_checked": 29,
+    "existing_platform_evidence_checked": 11,
+    "xiaohongshu_readback_and_preview_sha256": {
+      "xiaohongshu-v2-platform/confirmed-readback-2026-10-15.json": "896d129a7a6c18f3acd4ebc85de3bb7ccc588a88752686f82183072e8b15a841",
+      "xiaohongshu-v2-platform/confirmed-preview-2026-10-15.png": "128381c8788ec12d0f9fa66e71b5080febbd4e0467a7bd3ea823006b6f1076ab"
+    },
+    "xiaohongshu_decoded_pixels_match_in_order": true,
+    "wechat_platform_preview": "blocked; earlier explicit browser URL restriction remains; no bypass attempted",
+    "publication_performed": false,
+    "git_commit_or_push_performed": false,
+    "remote_write": {
+      "identity": "user",
+      "entry_resolved_live": true,
+      "schema_fields": 10,
+      "records_count": 4,
+      "has_more": false,
+      "revision_before": 8,
+      "revision_after": 9,
+      "updated_fields": {
+        "wechat": [
+          "下一步"
+        ],
+        "xiaohongshu": [
+          "状态",
+          "下一步"
+        ]
+      },
+      "target_delta_readback_matches": true,
+      "other_projected_fields_and_records_unchanged": true,
+      "projected_fields": [
+        "选题",
+        "平台",
+        "状态",
+        "本地稿件路径",
+        "下一步",
+        "共享研究路径",
+        "优先级"
+      ],
+      "not_read": [
+        "读者问题",
+        "计划发布日期",
+        "发布链接"
+      ],
+      "new_records": 0,
+      "new_fields": 0,
+      "verified_at": "2026-10-15T08:13:00+08:00"
+    },
+    "verification": {
+      "local_markdown_links": 89,
+      "broken_links": [],
+      "finals_byte_identical_to_drafts": true,
+      "git_diff_check": "pass"
+    }
+  },
+  "wechat_preview_author_exception": {
+    "recorded_at": "2026-10-15T08:30:24+08:00",
+    "author_quote": "默认通过吧，另外把任务过程临时生成的文件清理删除。把此次改动同步至 github main，commit 说明改动原因",
+    "candidate_package_sha256": "7468aa4a45c1ed5b18eb6bf1ae45dfcf7d98c9207a1b2a8392404a5b8d3dd57b",
+    "decision": "author-directed default pass for this v2 only",
+    "actual_platform_preview_verified": false,
+    "saved_draft_verified": false,
+    "uploaded_assets_verified": false,
+    "fabricated_preview_evidence": false,
+    "general_workflow_changed": false,
+    "git_commit_and_push_main_authorized": true,
+    "actual_publication_authorized": false,
+    "remote_update": {
+      "identity": "user",
+      "revision_before": 9,
+      "revision_after": 10,
+      "records_count": 4,
+      "has_more": false,
+      "updated_fields": [
+        "状态",
+        "下一步"
+      ],
+      "status": "待发布",
+      "target_delta_readback_matches": true,
+      "other_projected_cells_unchanged": true,
+      "field_scope": [
+        "选题",
+        "平台",
+        "状态",
+        "本地稿件路径",
+        "下一步",
+        "共享研究路径",
+        "优先级"
+      ]
+    }
+  },
+  "task_temporary_cleanup": {
+    "recorded_at": "2026-10-15T08:30:58+08:00",
+    "scope": "inventoried task-owned /tmp/content-studio-* files and content-studio-e2e-faults directory",
+    "removed_files": 58,
+    "removed_directories": 1,
+    "removed_bytes": 684562,
+    "remaining_matching_entries": 0,
+    "retained": "finals, source assets, formal acceptance evidence, browser profile and browser-local draft"
   }
 }

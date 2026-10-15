@@ -1,0 +1,168 @@
+{
+  "readback": {
+    "title": "让 AI 写周报，先看提纲",
+    "body": "「帮我写一份周报」只说了任务，没有交代本周做了什么、给谁看，以及什么不能编造。\n\n\n\n\n这组六张卡片展示一种提问方式：提供材料 → 比较两个提纲 → 选择并反馈 → 核对正文。适合需要先整理汇报结构的场景；已有固定模板时，也可以直接按模板处理。\n\n\n\n\n卡片首次给出的工作记录为虚构教学示例，非实测输出。使用时，请换成可用于该工具的真实记录。\n\n\n\n\n先检查提纲里每一项有没有依据，再决定是否扩展成正文。尤其留意：没完成的事是否被写成已完成，缺失的数据是否被补成一个数字。\n\n\n\n\n方法参考：《AI Prompting for Everyone》课件，署名 Andrew Ng。\n\n\n\n\n#AI入门 #周报 #提问方法",
+    "account": true,
+    "images": [
+      {
+        "sha256": "b6c0ee2fb797bccb3558d030c09bccb612436b22a28e7b7187611fbf8ae23ec1",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "sha256": "2a03954fc4b69201a576b500634934d92e0be0b4737e8836a8fa6d181653072c",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "sha256": "e72c96dac6fd7acdb66266ec75b05680c91931ca325d7f318bc3353cf55f3933",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "sha256": "efd3ac8e49c5b0805bb41ef662758667be2889f99297f61cce3ebd1e4968b984",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "sha256": "2c33142b271b405d1449da928043810857916e2109ff87e11ede9d43e9902276",
+        "width": 1080,
+        "height": 1440
+      },
+      {
+        "sha256": "7f864eac0dbe8339468e3aef39eaf95cce3c478da3f00282287ec7e80479db17",
+        "width": 1080,
+        "height": 1440
+      }
+    ]
+  },
+  "pixels": [
+    {
+      "mime": "image/jpeg",
+      "bytes": 151336,
+      "magic": [
+        137,
+        80,
+        78,
+        71,
+        13,
+        10,
+        26,
+        10,
+        0,
+        0,
+        0,
+        13
+      ],
+      "rgba_sha256": "780957a5e87e65cc8e5f8698559ad4f8f66a32e705e147baaa4798b1e49e9174",
+      "local_rgba_sha256": "780957a5e87e65cc8e5f8698559ad4f8f66a32e705e147baaa4798b1e49e9174"
+    },
+    {
+      "mime": "image/jpeg",
+      "bytes": 161822,
+      "magic": [
+        137,
+        80,
+        78,
+        71,
+        13,
+        10,
+        26,
+        10,
+        0,
+        0,
+        0,
+        13
+      ],
+      "rgba_sha256": "7a7bdb9d176bf68adb2fd238174e6af268d0bf28a01707323fe1896458021a33",
+      "local_rgba_sha256": "7a7bdb9d176bf68adb2fd238174e6af268d0bf28a01707323fe1896458021a33"
+    },
+    {
+      "mime": "image/jpeg",
+      "bytes": 174515,
+      "magic": [
+        137,
+        80,
+        78,
+        71,
+        13,
+        10,
+        26,
+        10,
+        0,
+        0,
+        0,
+        13
+      ],
+      "rgba_sha256": "f6cb6550cc778c5570a6dca194923cfead6439bac9b74862c853057c7129ccc2",
+      "local_rgba_sha256": "f6cb6550cc778c5570a6dca194923cfead6439bac9b74862c853057c7129ccc2"
+    },
+    {
+      "mime": "image/jpeg",
+      "bytes": 167394,
+      "magic": [
+        137,
+        80,
+        78,
+        71,
+        13,
+        10,
+        26,
+        10,
+        0,
+        0,
+        0,
+        13
+      ],
+      "rgba_sha256": "bb472430c1fde843eaee0408aca6e31b3f8d92e569a5c4bab489f4c743f5af32",
+      "local_rgba_sha256": "bb472430c1fde843eaee0408aca6e31b3f8d92e569a5c4bab489f4c743f5af32"
+    },
+    {
+      "mime": "image/jpeg",
+      "bytes": 152253,
+      "magic": [
+        137,
+        80,
+        78,
+        71,
+        13,
+        10,
+        26,
+        10,
+        0,
+        0,
+        0,
+        13
+      ],
+      "rgba_sha256": "7a2232e5fd9345b2adeb5aacedffd38e757a7c3435ca173c4549d7f8f20b5c08",
+      "local_rgba_sha256": "7a2232e5fd9345b2adeb5aacedffd38e757a7c3435ca173c4549d7f8f20b5c08"
+    },
+    {
+      "mime": "image/jpeg",
+      "bytes": 179435,
+      "magic": [
+        137,
+        80,
+        78,
+        71,
+        13,
+        10,
+        26,
+        10,
+        0,
+        0,
+        0,
+        13
+      ],
+      "rgba_sha256": "634936626a63b8eb573ea055d8f10c174fd649b630352870cf7d1962210df288",
+      "local_rgba_sha256": "634936626a63b8eb573ea055d8f10c174fd649b630352870cf7d1962210df288"
+    }
+  ],
+  "captured_at": "2026-10-15T08:12:21+08:00",
+  "tool": "huashu-chrome",
+  "tab_id": 1116458880,
+  "title_matches": true,
+  "body_matches_ignoring_whitespace": true,
+  "decoded_rgba_matches_in_order": true,
+  "notes": "Reopened blobs have changed file bytes and image/jpeg MIME labels but PNG signatures; decoded RGBA matches all six original PNGs. No new upload, save, or publication performed."
+}
